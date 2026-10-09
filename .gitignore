@@ -1,0 +1,9 @@
+.env
+*.env
+.env.local
+other Resources/.env
+__pycache__/
+.venv/
+venv/
+*.pyc
+api_response.json
