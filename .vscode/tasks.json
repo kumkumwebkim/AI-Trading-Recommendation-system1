@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Backtest Service",
+			"type": "shell",
+			"command": "python backtesting/main.py",
+			"args": [
+				"python",
+				"backtesting/main.py"
+			],
+			"isBackground": true,
+			"group": "start-services"
+		}
+	]
+}

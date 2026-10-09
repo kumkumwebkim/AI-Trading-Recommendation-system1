@@ -1,0 +1,10 @@
+smtplib
+email
+datetime 
+random 
+requests 
+fastapi
+pydantic
+apscheduler
+tzlocal
+uvicorn
